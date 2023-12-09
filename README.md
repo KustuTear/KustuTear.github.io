@@ -1,2 +1,2 @@
 # KustuTear的小站
-Here[KustuTear.github.io]
+[KustuTear.github.io](KustuTear.github.io)
